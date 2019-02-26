@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 23665543728d49749b8d626b563275ec
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -585,7 +585,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 0f82f50a-1259-4b3e-84be-97612b99e6b5
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: Insurrection
   organizationId: jason-reinhardt
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

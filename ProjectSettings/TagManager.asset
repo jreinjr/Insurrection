@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Shadow
   - Collide
+  - Pop
   layers:
   - Default
   - TransparentFX
@@ -17,9 +18,9 @@ TagManager:
   - 
   - TempCast
   - Walkable
-  - 
-  - 
-  - 
+  - Zone
+  - Level
+  - Pop
   - 
   - 
   - 
